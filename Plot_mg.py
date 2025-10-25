@@ -4,7 +4,7 @@ from gaussian import Gaussian, plotGaussian
 import numpy as np
 from math import pi, sqrt, pow
 
-with open('log/try_distance10.py', 'r') as f:
+with open('log/file.py', 'r') as f:
     data = f.read()
 
 #Get the angle values from robotFrames
